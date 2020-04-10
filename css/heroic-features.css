@@ -9,3 +9,14 @@ body {
 h1{
   text-align: center;	
 }
+h3{
+  text-align: center;
+}
+.officers{
+  text-align: center;
+}
+.card-horizontal {
+  display: flex;
+  flex: 1 1 auto;
+}
+
